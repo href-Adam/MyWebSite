@@ -1,0 +1,52 @@
+﻿body
+{
+	background-color: #548756;
+	color: #f2f2f0;
+	background-image: url("ab.jpg");
+}
+.kep
+{
+	margin: 5px;
+	height: 270px;
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2px;
+	border-radius: 40px;
+	border: solid grey;
+}
+
+.box
+{
+	background-color: #83d492;
+	width: 180px;
+	height: 180px;
+	border: 5px solid green;
+	padding: 50px;
+	margin: 20px;
+	border-radius: 40px;
+	float: left;
+}
+
+.box2
+{
+	background-color: #83d492;
+	width: 180px;
+	height: 180px;
+	border: 5px solid green;
+	padding: 50px;
+	margin: 20px;
+	border-radius: 40px;
+	float: right;
+}
+.kep1
+{
+	width: 180px;
+	height: 140px;
+}
+.header
+{
+	color: #83d492;
+	font-weight: 900;
+}
